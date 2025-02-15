@@ -1,4 +1,5 @@
 #include<stdio.h>
+// o(n*n)
 int main(){
 	int x,i,j,k;
 	scanf("%d",&x);
