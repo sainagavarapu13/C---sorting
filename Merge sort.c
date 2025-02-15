@@ -1,4 +1,5 @@
 #include<stdio.h>
+//time complexity = nlogn
 int main(){
 	int x,i;
 	// size of first sorted array
